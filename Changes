@@ -1,5 +1,9 @@
 Revision history for RT-Extension-SearchResults-ODS
 
+0.03    Wed, 22 Jan 2014 16:11:01 +0100
+        Add support for RT 4.2.x
+        Require RT >= 4.2.0
+
 0.02    Wed, 25 May 2011 11:53:10 +0200
         Add Tab for RT 4
 

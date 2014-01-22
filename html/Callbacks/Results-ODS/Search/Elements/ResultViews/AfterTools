@@ -1,4 +1,0 @@
-<li><a href="<%RT->Config->Get('WebPath')%>/Search/Results.ods<%$QueryString%>"><&|/l&>ODS</&></a></li>
-<%ARGS>
-$QueryString => undef
-</%ARGS>
