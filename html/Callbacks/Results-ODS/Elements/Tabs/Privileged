@@ -58,7 +58,7 @@ my $query_string = sub {
 
 if (            
      (           
-            $request_path =~ m{^/(?:Ticket|Search)/}
+            $request_path =~ m{^/Search/}
          && $request_path !~ m{^/Search/Simple\.html}
      )       
      || (   $request_path =~ m{^/Search/Simple\.html}
